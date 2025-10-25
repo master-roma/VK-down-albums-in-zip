@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name				VK: down albums in .zip
-// @version				2025.06.15.beta
+// @name:ru				VK: качалка альбомов в .zip
+// @version				2025.10.26.beta
 // @author				Master Roma
 // @description			Adds abblity to dowhload VK album in .zip
 // @description:ru		Добавляет возможность скачивать VK альбомы в .zip
