@@ -2,7 +2,7 @@
 // @name				VK down albums in .zip
 // @name:ru				VK качалка альбомов в .zip
 // @namespace			MasterRoma
-// @version				2025.10.26
+// @version				2025.10.26.2
 // @author				Master Roma
 // @license				GNU GPLv3
 // @description			Adds abblity to dowhload VK album in .zip
