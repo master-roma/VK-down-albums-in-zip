@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name				VK качалка альбомов в .zip
-// @name:en				VK down albums in .zip
+// @name				VK down albums in .zip
+// @name:ru				VK качалка альбомов в .zip
 // @namespace			MasterRoma
-// @version				2025.10.26.6
+// @version				2026.05.15.2
 // @author				Master Roma
 // @license				WTFPL
 // @description			В каждом альбоме добавляет кнопку "Скачать альбом в .zip", при нажатии на которую скачиваются все фотографии в один zip файл. Всё просто и удобно.
