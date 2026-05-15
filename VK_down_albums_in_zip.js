@@ -14,8 +14,8 @@
 // @match				*vk.ru/*
 // @noframes
 // @run-at            	document-end
-// @updateURL			https://github.com/master-roma/VK-down-albums-in-zip/blob/main/VK_down_albums_in_zip.js
-// @downloadURL			https://github.com/master-roma/VK-down-albums-in-zip/blob/main/VK_down_albums_in_zip.meta.js
+// @updateURL			https://raw.githubusercontent.com/master-roma/VK-down-albums-in-zip/refs/heads/main/VK_down_albums_in_zip.js
+// @downloadURL			https://raw.githubusercontent.com/master-roma/VK-down-albums-in-zip/refs/heads/main/VK_down_albums_in_zip.meta.js
 // ==/UserScript==
 //____________________________________________________________________________________________________________________________________
 
