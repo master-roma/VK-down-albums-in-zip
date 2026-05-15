@@ -1,12 +1,12 @@
 // ==UserScript==
-// @name				VK down albums in .zip
-// @name:ru				VK качалка альбомов в .zip
+// @name				VK качалка альбомов в .zip
+// @name:en				VK down albums in .zip
 // @namespace			MasterRoma
-// @version				2025.10.26.5
+// @version				2025.10.26.6
 // @author				Master Roma
 // @license				WTFPL
-// @description			Adds abblity to dowhload VK album in .zip
-// @description:ru		Добавляет возможность скачивать VK альбомы в .zip
+// @description			В каждом альбоме добавляет кнопку "Скачать альбом в .zip", при нажатии на которую скачиваются все фотографии в один zip файл. Всё просто и удобно.
+// @description:en		In each album, it adds a "Download album to .zip" button, which downloads all the photos into a single zip file. Everything is simple and convenient.
 // @icon				data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjODI4YTk5IiBkPSJtIDEwLDYgaCA0IHYgNiBoIDMgbCAtNSw2IC01LC02IGggMyB6IiBwYWludC1vcmRlcj0ibWFya2VycyBzdHJva2UgZmlsbCIvPjwvc3ZnPg==
 // @include				*://vk.com/*
 // @include				*://vk.ru/*
