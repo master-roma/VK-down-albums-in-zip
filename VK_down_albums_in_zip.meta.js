@@ -2,9 +2,9 @@
 // @name				VK down albums in .zip
 // @name:ru				VK качалка альбомов в .zip
 // @namespace			MasterRoma
-// @version				2025.10.26.3
+// @version				2025.10.26.4
 // @author				Master Roma
-// @license				GNU GPLv3
+// @license				WTFPL
 // @description			Adds abblity to dowhload VK album in .zip
 // @description:ru		Добавляет возможность скачивать VK альбомы в .zip
 // @icon				data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjODI4YTk5IiBkPSJtIDEwLDYgaCA0IHYgNiBoIDMgbCAtNSw2IC01LC02IGggMyB6IiBwYWludC1vcmRlcj0ibWFya2VycyBzdHJva2UgZmlsbCIvPjwvc3ZnPg==
